@@ -1,0 +1,8 @@
+.ui.statistic>.value, .ui.statistics .statistic>.value{
+    font-size: 40px !important;
+    padding: 10px;
+}
+.ui.statistic>.label, .ui.statistics .statistic>.label{
+    font-size: 30px !important;
+    padding: 10px;
+}
